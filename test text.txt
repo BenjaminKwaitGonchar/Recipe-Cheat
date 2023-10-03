@@ -1,0 +1,5 @@
+new_int = 7
+if new_int < 8:
+    print("Happy")
+for i in range(10):
+    print(i)
